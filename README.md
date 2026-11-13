@@ -74,6 +74,12 @@ The first H1 is the title, an image before it is the cover, and a leading
 are written back to the Markdown by default. See [CLI.md](CLI.md) for cookie
 paths, options, JSON output, and agent examples.
 
+### Agent Skill
+
+The `zhihu-vscode-publish` Skill wraps this CLI with automatic CLI discovery,
+dry-run checks, and a standard publishing workflow. Its source and packaged
+`.skill` archive are available under [`skills/`](skills/).
+
 ## Quick Tutorial: Publish a Zhihu Article
 
 1. Create or open a `.md` file in VSCode.
