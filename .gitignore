@@ -1,0 +1,22 @@
+out
+node_modules
+# login.js
+/zhihu_login/*
+cookie.json
+captcha.jpg
+/tmp_test
+collection.json
+qrcode.png
+image.png
+release_notes/images
+*.vsix
+dist
+README.pdf
+events.json
+cache.json
+context.json
+VSCode-Zhihu-0.6.4/
+**/images
+.vscode-test
+*.log
+.idea/
